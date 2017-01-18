@@ -10,7 +10,7 @@ React-Native 实现的高铁管家
 <img width="216" height="384" src="https://github.com/uuom/HighRailwayHouseKeeper/blob/master/screenshots//ticket.png"/>
 <img width="216" height="384" src="https://github.com/uuom/HighRailwayHouseKeeper/blob/master/screenshots//timetable.png"/>
 <img width="216" height="384" src="https://github.com/uuom/HighRailwayHouseKeeper/blob/master/screenshots//service.png"/>
-<img width="216" height="384" src="https://github.com/uuom/HighRailwayHouseKeeper/blob/master/screenshots//service.png"/>
+<img width="216" height="384" src="https://github.com/uuom/HighRailwayHouseKeeper/blob/master/screenshots//personal.png"/>
 
 ####感谢以下RN组件：
 * [react-native-tab-navigator](https://github.com/exponent/react-native-tab-navigator)
